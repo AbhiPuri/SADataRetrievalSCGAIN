@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DatabaseConfiguration>
+	<UserId>User02</UserId>
+	<Password>test</Password>
+	<Source>(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SID=orcl)))</Source>
+</DatabaseConfiguration>
